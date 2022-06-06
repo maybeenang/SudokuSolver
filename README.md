@@ -1,1 +1,1 @@
-# SudokuSolverC++
+# SudokuSolver
